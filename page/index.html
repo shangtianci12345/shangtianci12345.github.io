@@ -316,32 +316,31 @@
 <script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
 
 <script>
-    const home = "http://localhost:1313/";
     const ap = new APlayer({
         container: document.getElementById('aplayer'),
         fixed: true,
         lrcType: 3,
         audio: [
             {
-                name: '以恋结缘',  
-                artist: 'KOTOKO',  
-                url: home + '音乐/以恋结缘/以恋结缘.ogg',  
-                cover: home + '音乐/以恋结缘/以恋结缘.jpg',  
-                lrc: home + '音乐/以恋结缘/以恋结缘.lrc'  
+                name: '以恋结缘',
+                artist: 'KOTOKO',
+                url: 'http:\/\/localhost:1313\/音乐/以恋结缘/以恋结缘.ogg',
+                cover: 'http:\/\/localhost:1313\/音乐/以恋结缘/以恋结缘.jpg',
+                lrc: 'http:\/\/localhost:1313\/音乐/以恋结缘/以恋结缘.lrc'
             },
             {
-                name: '只因你太美-原版',  
-                artist: '蔡徐坤',  
-                url: home + '音乐/只因你太美-原版/只因你太美-原版.ogg',  
-                cover: home + '音乐/只因你太美-原版/只因你太美-原版.jpg',  
-                lrc: home + '音乐/只因你太美-原版/只因你太美-原版.lrc'  
+                name: '只因你太美-原版',
+                artist: '蔡徐坤',
+                url: 'http:\/\/localhost:1313\/音乐/只因你太美-原版/只因你太美-原版.ogg',
+                cover: 'http:\/\/localhost:1313\/音乐/只因你太美-原版/只因你太美-原版.jpg',
+                lrc: 'http:\/\/localhost:1313\/音乐/只因你太美-原版/只因你太美-原版.lrc'
             },
             {
-                name: '只因你太美-国风',  
-                artist: '蔡徐坤',  
-                url: home + '音乐/只因你太美-国风/只因你太美.mp3',  
-                cover: home + '音乐/只因你太美-国风/只因你太美.webp',  
-                lrc: home + '音乐/只因你太美-国风/只因你太美.lrc'  
+                name: '只因你太美-国风',
+                artist: '蔡徐坤',
+                url: 'http:\/\/localhost:1313\/音乐/只因你太美-国风/只因你太美.mp3',
+                cover: 'http:\/\/localhost:1313\/音乐/只因你太美-国风/只因你太美.webp',
+                lrc: 'http:\/\/localhost:1313\/音乐/只因你太美-国风/只因你太美.lrc'
             }
         ]
     });
