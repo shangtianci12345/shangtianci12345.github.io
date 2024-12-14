@@ -121,8 +121,8 @@
         <guid>http://localhost:1313/p/%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%8E%A8%E8%8D%90/</guid>
         <description>&lt;img src="http://localhost:1313/p/%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%8E%A8%E8%8D%90/%E4%BA%91%E4%B8%BB%E6%9C%BA.jpg" alt="Featured image of post 服务器推荐" /&gt;&lt;h2 id=&#34;简单介绍&#34;&gt;简单介绍
 &lt;/h2&gt;&lt;p&gt;可以听一听保证有收货&lt;br&gt;
-国内的阿里云，腾讯云，京东云等厂商的服务器不怎么好用&lt;br&gt;
-我就介绍一下小厂商的服务器怎么选
+我在网上找了很多的教程，但都是没有介绍价格在什么区间合适，怎么找便宜的服务器&lt;br&gt;
+于是我就介绍一下服务器怎么选
 &lt;br&gt;&lt;br&gt;
 如果不想看怎么选服务器，可以选择我使用的厂商，下面是链接&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -137,55 +137,15 @@
 &lt;/h2&gt;&lt;p&gt;国内的阿里云，腾讯云，京东云等厂商的服务器不怎么好用。&lt;br&gt;
 1.如果检测出你的某些行为违规，电脑上面的软件会停止，还会不经过你的允许就把某些文件删除掉。情况验证还会把你的服务器给停止，钱也不退给你&lt;br&gt;
 例子：因为公网网络好，我就用nmap等工具扫描了网站(有了授权)，扫描了一半就说我的行为违规，把我的nmap给停止了，目录扫描也扫描到一半就停止了&lt;br&gt;
-&lt;img src=&#34;http://localhost:1313/p/%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%8E%A8%E8%8D%90/123.png&#34;
-	width=&#34;570&#34;
-	height=&#34;1347&#34;
-	srcset=&#34;http://localhost:1313/p/%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%8E%A8%E8%8D%90/123_hu2158882967395553826.png 480w, http://localhost:1313/p/%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%8E%A8%E8%8D%90/123_hu17198380847347304884.png 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;屏幕截图 2024-12-11 124641_副本&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;42&#34;
-		data-flex-basis=&#34;101px&#34;
-	
-&gt;&lt;br&gt;
+&lt;img src=&#34;123.png&#34; alt=&#34;屏幕截图 2024-12-11 124641_副本&#34; style=&#34;zoom:50%;&#34; /&gt;&lt;br&gt;
 2.在公网上面部署msf，cs的时候，腾讯云就说我的行为违规，msf在云服务器上面安装不了，cs也一样，直接删除文件&lt;br&gt;
 3.如果你用国内的云主机来做攻防/渗透，容易被溯源，因为国内的云主机都是要实名的，香港的不用实名&lt;br&gt;
 4.我当初159元买了一个2核4g6M一年的服务器，6M的宽带理论来算在0.75mb/s的下载速度，但是我用windows自带的远程桌面工具检测的时候是151M，151除以8约等于18mb/s的下载速度，国内的这个宽带有点假了&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%8E%A8%E8%8D%90/2.png&#34;
-	width=&#34;771&#34;
-	height=&#34;708&#34;
-	srcset=&#34;http://localhost:1313/p/%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%8E%A8%E8%8D%90/2_hu4220995977031442282.png 480w, http://localhost:1313/p/%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%8E%A8%E8%8D%90/2_hu17068732110538270146.png 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;2&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;108&#34;
-		data-flex-basis=&#34;261px&#34;
-	
-&gt;\&lt;/p&gt;
-&lt;p&gt;\&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;2.png&#34; alt=&#34;2&#34; style=&#34;zoom:50%;&#34; /&gt;\&lt;/p&gt;
 &lt;p&gt;如果你没有特殊的需求，可以买国内的服务器，最好是在有节日搞促销的时候买，2核2g的99元一年，一个月一个月的买比较贵。&lt;br&gt;
-国内的大厂商是不会跑路的，小厂商可能会跑路\&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%8E%A8%E8%8D%90/image-20241211194634547.png&#34;
-	width=&#34;544&#34;
-	height=&#34;1033&#34;
-	srcset=&#34;http://localhost:1313/p/%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%8E%A8%E8%8D%90/image-20241211194634547_hu4670802826342898127.png 480w, http://localhost:1313/p/%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%8E%A8%E8%8D%90/image-20241211194634547_hu5947489878930290206.png 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;image-20241211194634547&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;52&#34;
-		data-flex-basis=&#34;126px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+国内的大厂商是不会跑路的，小厂商可能会跑路&lt;/p&gt;
+&lt;img src=&#34;image-20241211194634547.png&#34; alt=&#34;image-20241211194634547&#34; style=&#34;zoom:50%;&#34; /&gt;
+&lt;br&gt;
 &lt;h2 id=&#34;香港服务器怎么选择&#34;&gt;香港服务器怎么选择
 &lt;/h2&gt;&lt;h3 id=&#34;价格判断&#34;&gt;价格判断
 &lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%8E%A8%E8%8D%90/%E4%BA%91%E4%B8%BB%E6%9C%BA.jpg&#34;
@@ -216,7 +176,7 @@
 &lt;h3 id=&#34;一个服务器当做windows用和linux用&#34;&gt;一个服务器当做windows用和linux用
 &lt;/h3&gt;&lt;p&gt;有些电脑是可以当做windows和linux相互使用的，只需要有两个备份(或者叫做快照)，可以重装系统。&lt;/p&gt;
 &lt;p&gt;它们之间的快照(备份)转化需要三分钟左右&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;br&gt;
 &lt;h3 id=&#34;视频中提到的服务器&#34;&gt;视频中提到的服务器
 &lt;/h3&gt;&lt;p&gt;视频中提到的服务器&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -246,13 +206,13 @@
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;https://idc.h0u.cn/aff/IITVUORL (梦云)
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;br&gt;
 &lt;h2 id=&#34;怎么找云服务器看bilibili抖音&#34;&gt;怎么找云服务器？看bilibili，抖音
 &lt;/h2&gt;&lt;p&gt;香港服务器购买的渠道&lt;br&gt;
 1.看bilibili 2.看抖音&lt;br&gt;
 都要选择最新的日期，最多播放和默认排序不怎么好用&lt;/p&gt;
 &lt;h2 id=&#34;视频&#34;&gt;视频
-&lt;/h2&gt;&lt;p&gt;要开代理看，里面介绍了怎么选择服务器&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;要开代理看，里面介绍了我是怎么选择服务器&lt;/p&gt;
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/e6dbJh8cV_8&#34; 
         title=&#34;YouTube video player&#34; frameborder=&#34;0&#34; 
         allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; 

@@ -375,15 +375,35 @@
 
     <footer class="site-footer">
     <section class="copyright">
-        &copy; 
+        &copy;
         
-            2024年开始 - 
+        2024年开始 -
         
         2024 个人博客
     </section>
-    
+    <script>
+        
+        const pageKey = `view-count-${window.location.pathname}`;
 
+        
+        const currentCount = localStorage.getItem(pageKey) || 0;
 
+        
+        const newCount = parseInt(currentCount) + 1;
+        localStorage.setItem(pageKey, newCount);
+
+        
+        document.addEventListener('DOMContentLoaded', function () {
+            const viewCounter = document.getElementById('view-count');
+            if (viewCounter) {
+                viewCounter.textContent = newCount;
+            }
+        });
+    </script>
+
+    <div>
+        浏览次数：<span id="view-count">加载中...</span>
+    </div>
 
     
 <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
@@ -481,6 +501,88 @@
         document.head.appendChild(customFont);
     }());
 </script>
+<style>
+  body {
+    background: url(http://localhost:1313/background/fourth.jpeg) no-repeat center top;
+    background-size: cover;
+    background-attachment: fixed;
+  }
+
+
+</style>
+
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
+<div id="aplayer"></div>
+<script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
+
+<script>
+    const home = "http://localhost:1313/";
+    const ap = new APlayer({
+        container: document.getElementById('aplayer'),
+        fixed: true,
+        lrcType: 3,
+        audio: [
+            {
+                name: '只因你太美-原版',  
+                artist: '蔡徐坤',  
+                url: home + '音乐/只因你太美-原版/只因你太美-原版.ogg',  
+                cover: home + '音乐/只因你太美-原版/只因你太美-原版.jpg',  
+                lrc: home + '音乐/只因你太美-原版/只因你太美-原版.lrc'  
+            },
+            {
+                name: '只因你太美-国风',  
+                artist: '蔡徐坤',  
+                url: home + '音乐/只因你太美-国风/只因你太美.mp3',  
+                cover: home + '音乐/只因你太美-国风/只因你太美.webp',  
+                lrc: home + '音乐/只因你太美-国风/只因你太美.lrc'  
+            },
+            {
+                name: '以恋结缘',  
+                artist: 'KOTOKO',  
+                url: home + '音乐/以恋结缘/以恋结缘.ogg',  
+                cover: home + '音乐/以恋结缘/以恋结缘.jpg',  
+                lrc: home + '音乐/以恋结缘/以恋结缘.lrc'  
+            }
+        ]
+    });
+
+    
+    window.addEventListener('beforeunload', () => {
+        const playInfo = {
+            index: ap.list.index,
+            currentTime: ap.audio ? ap.audio.currentTime : 0,
+            paused: ap.audio ? ap.audio.paused : true
+        };
+        localStorage.setItem("playInfo", JSON.stringify(playInfo));
+    });
+
+    
+    window.addEventListener('load', () => {
+        const playInfo = JSON.parse(localStorage.getItem("playInfo"));
+        if (!playInfo) return; 
+
+        
+        ap.list.switch(playInfo.index);
+
+        
+        ap.on('loadedmetadata', () => {
+            if (playInfo.currentTime > 0) {
+                ap.seek(playInfo.currentTime);
+            }
+            if (!playInfo.paused) {
+                ap.play();
+            }
+        });
+    });
+
+    
+    ap.on('canplay', () => {
+        ap.off('loadedmetadata');
+    });
+</script>
+
+
 
     </body>
 </html>
