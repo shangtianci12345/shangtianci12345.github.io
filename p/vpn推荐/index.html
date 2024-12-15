@@ -293,7 +293,8 @@
 <pre tabindex="0" class="chroma"><code class="language-fallback" data-lang="fallback"><span class="line"><span class="cl">https://idc.h0u.cn/aff/IITVUORL
 </span></span></code></pre></td></tr></table>
 </div>
-</div>
+</div><p>有了服务器后可以自己在服务器上面搭建vpn，这样自己就可以不用买vpn了</p>
+
 </section>
 
 
@@ -553,38 +554,38 @@
 
 
     
-    window.addEventListener('beforeunload', () => {
+
+    window.onbeforeunload = () => {
+        
         const playInfo = {
             index: ap.list.index,
-            currentTime: ap.audio ? ap.audio.currentTime : 0,
-            paused: ap.audio ? ap.audio.paused : true
+            currentTime: ap.audio.currentTime,
+            paused: ap.paused
         };
         localStorage.setItem("playInfo", JSON.stringify(playInfo));
-    });
+    };
 
     
-    window.addEventListener('load', () => {
-        const playInfo = JSON.parse(localStorage.getItem("playInfo"));
-        if (!playInfo) return; 
 
+    window.onload = () => {
+        
+        const playInfo = JSON.parse(localStorage.getItem("playInfo"));
+        if (!playInfo) {
+            return;
+        }
         
         ap.list.switch(playInfo.index);
-
         
-        ap.on('loadedmetadata', () => {
-            if (playInfo.currentTime > 0) {
-                ap.seek(playInfo.currentTime);
-            }
+        setTimeout(() => {
+            
+            ap.seek(playInfo.currentTime);
+            
             if (!playInfo.paused) {
-                ap.play();
+                ap.play()
             }
-        });
-    });
+        }, 500);
+    };
 
-    
-    ap.on('canplay', () => {
-        ap.off('loadedmetadata');
-    });
 </script>
 
 
