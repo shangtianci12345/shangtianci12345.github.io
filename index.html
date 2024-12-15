@@ -508,38 +508,38 @@
 
 
     
-    window.addEventListener('beforeunload', () => {
+
+    window.onbeforeunload = () => {
+        
         const playInfo = {
             index: ap.list.index,
-            currentTime: ap.audio ? ap.audio.currentTime : 0,
-            paused: ap.audio ? ap.audio.paused : true
+            currentTime: ap.audio.currentTime,
+            paused: ap.paused
         };
         localStorage.setItem("playInfo", JSON.stringify(playInfo));
-    });
+    };
 
     
-    window.addEventListener('load', () => {
-        const playInfo = JSON.parse(localStorage.getItem("playInfo"));
-        if (!playInfo) return; 
 
+    window.onload = () => {
+        
+        const playInfo = JSON.parse(localStorage.getItem("playInfo"));
+        if (!playInfo) {
+            return;
+        }
         
         ap.list.switch(playInfo.index);
-
         
-        ap.on('loadedmetadata', () => {
-            if (playInfo.currentTime > 0) {
-                ap.seek(playInfo.currentTime);
-            }
+        setTimeout(() => {
+            
+            ap.seek(playInfo.currentTime);
+            
             if (!playInfo.paused) {
-                ap.play();
+                ap.play()
             }
-        });
-    });
+        }, 500);
+    };
 
-    
-    ap.on('canplay', () => {
-        ap.off('loadedmetadata');
-    });
 </script>
 
 
