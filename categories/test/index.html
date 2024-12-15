@@ -381,9 +381,8 @@
 
 <script>
 	
-	const live2d_path = "/live2d/";
-	const cssPath = live2d_path + "waifu.css";
-	const waifuTipsJsonPath = live2d_path + "waifu-tips.json";
+	const cssPath = "https://github.com/shangtianci12345/shangtianci12345.github.io/tree/main/live2d/waifu.css";
+	const waifuTipsJsonPath = "https://github.com/shangtianci12345/shangtianci12345.github.io/tree/main/live2d/waifu-tips.json";
 
 	
 	function loadExternalResource(url, type) {
@@ -410,13 +409,13 @@
 	if (screen.width >= 768) {
 		Promise.all([
 			loadExternalResource(cssPath, "css"),
-			loadExternalResource(live2d_path + "live2d.min.js", "js"),
-			loadExternalResource(live2d_path + "waifu-tips.js", "js")
+			loadExternalResource("https://github.com/shangtianci12345/shangtianci12345.github.io/tree/main/live2d/live2d.min.js", "js"),
+			loadExternalResource("https://github.com/shangtianci12345/shangtianci12345.github.io/tree/main/live2d/waifu-tips.js", "js")
 		]).then(() => {
 			
 			initWidget({
 				waifuPath: waifuTipsJsonPath,
-				cdnPath: live2d_path, 
+				cdnPath: "https://github.com/shangtianci12345/shangtianci12345.github.io/tree/main/live2d/", 
 				tools: ["switch-model"]
 			});
 		}).catch(err => {
