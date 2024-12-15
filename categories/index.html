@@ -299,11 +299,11 @@
     }());
 </script>
 <style>
-  body {
-      background: url(http://localhost:1313/background/fourth.jpeg) no-repeat center top;
-      background-size: cover;
-      background-attachment: fixed;
-  }
+    body {
+        background: url(https://shangtianci12345.github.io/background/fourth.jpeg) no-repeat center top;
+        background-size: cover;
+        background-attachment: fixed;
+    }
 </style>
 
 
@@ -316,32 +316,37 @@
 <script>
 	const ap = new APlayer({
 	    container: document.getElementById('aplayer'),
+	    listMaxHeight: '120px',
+	    volume: 0.4,
+	    order: 'list',
+	    listFolded: false,
 	    fixed: true,
 	    lrcType: 3,
 	    audio: [
 	        {
 	            name: '以恋结缘',
 	            artist: 'KOTOKO',
-	            url: 'http:\/\/localhost:1313\/音乐/以恋结缘/以恋结缘.ogg',
-	            cover: 'http:\/\/localhost:1313\/音乐/以恋结缘/以恋结缘.jpg',
-	            lrc: 'http:\/\/localhost:1313\/音乐/以恋结缘/以恋结缘.lrc'
+	            url: 'https://shangtianci12345.github.io/%E9%9F%B3%E4%B9%90/%E4%BB%A5%E6%81%8B%E7%BB%93%E7%BC%98/%E4%BB%A5%E6%81%8B%E7%BB%93%E7%BC%98.ogg',
+	            cover: 'https://shangtianci12345.github.io/%E9%9F%B3%E4%B9%90/%E4%BB%A5%E6%81%8B%E7%BB%93%E7%BC%98/%E4%BB%A5%E6%81%8B%E7%BB%93%E7%BC%98.jpg',
+	            lrc: 'https://shangtianci12345.github.io/%E9%9F%B3%E4%B9%90/%E4%BB%A5%E6%81%8B%E7%BB%93%E7%BC%98/%E4%BB%A5%E6%81%8B%E7%BB%93%E7%BC%98.lrc'
 	        },
 	        {
 	            name: '只因你太美-原版',
 	            artist: '蔡徐坤',
-	            url: 'http:\/\/localhost:1313\/音乐/只因你太美-原版/只因你太美-原版.ogg',
-	            cover: 'http:\/\/localhost:1313\/音乐/只因你太美-原版/只因你太美-原版.jpg',
-	            lrc: 'http:\/\/localhost:1313\/音乐/只因你太美-原版/只因你太美-原版.lrc'
+	            url: 'https://shangtianci12345.github.io/%E9%9F%B3%E4%B9%90/%E5%8F%AA%E5%9B%A0%E4%BD%A0%E5%A4%AA%E7%BE%8E-%E5%8E%9F%E7%89%88/%E5%8F%AA%E5%9B%A0%E4%BD%A0%E5%A4%AA%E7%BE%8E-%E5%8E%9F%E7%89%88.ogg',
+	            cover: 'https://shangtianci12345.github.io/%E9%9F%B3%E4%B9%90/%E5%8F%AA%E5%9B%A0%E4%BD%A0%E5%A4%AA%E7%BE%8E-%E5%8E%9F%E7%89%88/%E5%8F%AA%E5%9B%A0%E4%BD%A0%E5%A4%AA%E7%BE%8E-%E5%8E%9F%E7%89%88.jpg',
+	            lrc: 'https://shangtianci12345.github.io/%E9%9F%B3%E4%B9%90/%E5%8F%AA%E5%9B%A0%E4%BD%A0%E5%A4%AA%E7%BE%8E-%E5%8E%9F%E7%89%88/%E5%8F%AA%E5%9B%A0%E4%BD%A0%E5%A4%AA%E7%BE%8E-%E5%8E%9F%E7%89%88.lrc'
 	        },
 	        {
 	            name: '只因你太美-国风',
 	            artist: '蔡徐坤',
-	            url: 'http:\/\/localhost:1313\/音乐/只因你太美-国风/只因你太美.mp3',
-	            cover: 'http:\/\/localhost:1313\/音乐/只因你太美-国风/只因你太美.webp',
-	            lrc: 'http:\/\/localhost:1313\/音乐/只因你太美-国风/只因你太美.lrc'
+	            url: 'https://shangtianci12345.github.io/%E9%9F%B3%E4%B9%90/%E5%8F%AA%E5%9B%A0%E4%BD%A0%E5%A4%AA%E7%BE%8E-%E5%9B%BD%E9%A3%8E/%E5%8F%AA%E5%9B%A0%E4%BD%A0%E5%A4%AA%E7%BE%8E.mp3',
+	            cover: 'https://shangtianci12345.github.io/%E9%9F%B3%E4%B9%90/%E5%8F%AA%E5%9B%A0%E4%BD%A0%E5%A4%AA%E7%BE%8E-%E5%9B%BD%E9%A3%8E/%E5%8F%AA%E5%9B%A0%E4%BD%A0%E5%A4%AA%E7%BE%8E.webp',
+	            lrc: 'https://shangtianci12345.github.io/%E9%9F%B3%E4%B9%90/%E5%8F%AA%E5%9B%A0%E4%BD%A0%E5%A4%AA%E7%BE%8E-%E5%9B%BD%E9%A3%8E/%E5%8F%AA%E5%9B%A0%E4%BD%A0%E5%A4%AA%E7%BE%8E.lrc'
 	        }
 	    ]
 	});
+
 
 
     
@@ -379,6 +384,54 @@
     });
 </script>
 
+
+
+
+<script>
+	
+	const live2d_path = "/live2d/";
+	const cssPath = live2d_path + "waifu.css";
+	const waifuTipsJsonPath = live2d_path + "waifu-tips.json";
+
+	
+	function loadExternalResource(url, type) {
+		return new Promise((resolve, reject) => {
+			let tag;
+
+			if (type === "css") {
+				tag = document.createElement("link");
+				tag.rel = "stylesheet";
+				tag.href = url;
+			} else if (type === "js") {
+				tag = document.createElement("script");
+				tag.src = url;
+			}
+			if (tag) {
+				tag.onload = () => resolve(url);
+				tag.onerror = () => reject(url);
+				document.head.appendChild(tag);
+			}
+		});
+	}
+
+	
+	if (screen.width >= 768) {
+		Promise.all([
+			loadExternalResource(cssPath, "css"),
+			loadExternalResource(live2d_path + "live2d.min.js", "js"),
+			loadExternalResource(live2d_path + "waifu-tips.js", "js")
+		]).then(() => {
+			
+			initWidget({
+				waifuPath: waifuTipsJsonPath,
+				cdnPath: live2d_path, 
+				tools: ["switch-model"]
+			});
+		}).catch(err => {
+			console.error("资源加载失败:", err);
+		});
+	}
+</script>
 
 
     </body>
