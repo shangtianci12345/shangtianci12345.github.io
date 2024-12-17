@@ -8,12 +8,12 @@
         <language>zh-cn</language>
         <copyright>个人博客</copyright>
         <lastBuildDate>Thu, 12 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>怎么找工作</title>
-        <link>http://localhost:1313/p/%E6%80%8E%E4%B9%88%E6%89%BE%E5%B7%A5%E4%BD%9C/</link>
+        <title>信息安全怎么找工作</title>
+        <link>http://localhost:1313/p/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E6%80%8E%E4%B9%88%E6%89%BE%E5%B7%A5%E4%BD%9C/</link>
         <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/%E6%80%8E%E4%B9%88%E6%89%BE%E5%B7%A5%E4%BD%9C/</guid>
-        <description>&lt;img src="http://localhost:1313/p/%E6%80%8E%E4%B9%88%E6%89%BE%E5%B7%A5%E4%BD%9C/%E6%B1%82%E8%81%8C%E8%BD%AF%E4%BB%B6.jpg" alt="Featured image of post 怎么找工作" /&gt;&lt;h2 id=&#34;简单介绍&#34;&gt;简单介绍
+        <guid>http://localhost:1313/p/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E6%80%8E%E4%B9%88%E6%89%BE%E5%B7%A5%E4%BD%9C/</guid>
+        <description>&lt;img src="http://localhost:1313/p/%E4%BF%A1%E6%81%AF%E5%AE%89%E5%85%A8%E6%80%8E%E4%B9%88%E6%89%BE%E5%B7%A5%E4%BD%9C/%E6%B1%82%E8%81%8C%E8%BD%AF%E4%BB%B6.jpg" alt="Featured image of post 信息安全怎么找工作" /&gt;&lt;h2 id=&#34;简单介绍&#34;&gt;简单介绍
 &lt;/h2&gt;&lt;p&gt;可以听一听保证有收货&lt;br&gt;
 我在网上找了很多的教程，但都是没有很详细的介绍培训班出身，或者渗透能力一般的人是怎么找工作的&lt;br&gt;
 于是我就介绍一下渗透测试怎么找工作&lt;/p&gt;
@@ -106,6 +106,7 @@
 &lt;p&gt;2.中国人口越来越多，劳动力越来越廉价&lt;/p&gt;
 &lt;p&gt;3.一个萝卜一个坑，坑只有一些但是人有很多&lt;/p&gt;
 &lt;p&gt;4.网络安全缺的是高端人才，不要你什么都专精，但是要你什么都会一些&lt;/p&gt;
+&lt;p&gt;5.不要去面试大厂，大厂的要人水平很高，可以去小厂学习几年后跳槽到大厂&lt;/p&gt;
 &lt;h2 id=&#34;面试的问题&#34;&gt;面试的问题
 &lt;/h2&gt;&lt;h3 id=&#34;我遇到的面试问题&#34;&gt;我遇到的面试问题
 &lt;/h3&gt;&lt;p&gt;1.第一个小厂：要我代码审计挖一个rce漏洞，挖成功了给个实习的机会&lt;/p&gt;
@@ -148,42 +149,161 @@ allowfullscreen&gt;&lt;/iframe&gt;
 </description>
         </item>
         <item>
-        <title>vpn推荐</title>
-        <link>http://localhost:1313/p/vpn%E6%8E%A8%E8%8D%90/</link>
+        <title>怎么自己找vpn</title>
+        <link>http://localhost:1313/p/%E6%80%8E%E4%B9%88%E8%87%AA%E5%B7%B1%E6%89%BEvpn/</link>
         <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/vpn%E6%8E%A8%E8%8D%90/</guid>
-        <description>&lt;h2 id=&#34;简单介绍&#34;&gt;简单介绍
+        <guid>http://localhost:1313/p/%E6%80%8E%E4%B9%88%E8%87%AA%E5%B7%B1%E6%89%BEvpn/</guid>
+        <description>&lt;img src="http://localhost:1313/p/%E6%80%8E%E4%B9%88%E8%87%AA%E5%B7%B1%E6%89%BEvpn/vpn.png" alt="Featured image of post 怎么自己找vpn" /&gt;&lt;h2 id=&#34;简单介绍&#34;&gt;简单介绍
 &lt;/h2&gt;&lt;p&gt;可以听一听保证有收货&lt;br&gt;
 国内的bilibili，抖音，淘宝，拼多多都搜索不到vpn&lt;br&gt;
 我就介绍一下vpn怎么找，怎么选，是否是一个好的vpn
 &lt;br&gt;&lt;br&gt;
-如果不想看怎么选vpn，可以选择我使用的厂商，下面是链接&lt;/p&gt;
+如果不想看我怎么选vpn的，可以选择我使用的厂商，下面是链接&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;https://91unicorn.yeahfast.com/register?code=DH4SJFmX   //这个好用，厂家叫独角兽
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;https://user.jjyun.icu/#/register?code=wJGmYRgA         //这个第二好用，厂家叫极简云
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id=&#34;软件的选择&#34;&gt;软件的选择
+&lt;/h2&gt;&lt;h3 id=&#34;厂商自带的软件&#34;&gt;厂商自带的软件
+&lt;/h3&gt;&lt;p&gt;①一般都有用户限制，只能一个用户登录。②找不到代理端口&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
 &lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;123
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-gdscript3&#34; data-lang=&#34;gdscript3&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;https&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;//&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;dragonvpn&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;cc&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;#download-app  //只允许在它自己的app里面使用&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;h2 id=&#34;软件的选择&#34;&gt;软件的选择
-&lt;/h2&gt;&lt;h3 id=&#34;厂商自带的软件&#34;&gt;厂商自带的软件
-&lt;/h3&gt;&lt;h3 id=&#34;第三方软件&#34;&gt;第三方软件
+&lt;/div&gt;&lt;h3 id=&#34;第三方软件&#34;&gt;第三方软件
 &lt;/h3&gt;&lt;p&gt;第三方软件哪些好用&lt;/p&gt;
-&lt;p&gt;clash clash for windows v2rayn Clash Verge&lt;/p&gt;
-&lt;p&gt;有了服务器后可以自己在服务器上面搭建vpn，这样自己就可以不用买vpn了。但是最好还是买个流量类型的vpn防止地区不行，要切换地区&lt;/p&gt;
-&lt;h2 id=&#34;代理设置&#34;&gt;代理设置
-&lt;/h2&gt;&lt;p&gt;全局代理 局部代理 有什么区别&lt;/p&gt;
+&lt;p&gt;v2rayn，Clash Verge ，clash，clash for windows，hiddify&lt;/p&gt;
+&lt;p&gt;1.v2rayn(推荐)&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;https://github.com/2dust/v2rayN
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;2.clash-verge(推荐)&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;https://github.com/zzzgydi/clash-verge
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;3.clash_for_windows_chinese&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;https://github.com/Z-Siqi/Clash-for-Windows_Chinese
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;4.clash，在github上面的项目没有了&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;没有链接
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;5.hiddify&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;https://github.com/hiddify/hiddify-app
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;6.Netch&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;https://github.com/search?q=Netch&amp;amp;ref=opensearch&amp;amp;type=repositories&amp;amp;s=&amp;amp;o=desc
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h3 id=&#34;怎么使用第三方软件&#34;&gt;怎么使用第三方软件
+&lt;/h3&gt;&lt;p&gt;1.全局代理，局部代理&lt;/p&gt;
+&lt;p&gt;2.倍率，倍率看这个节点好不好&lt;/p&gt;
+&lt;p&gt;3.有些会在节点里面打广告，不要连接错误了&lt;/p&gt;
+&lt;p&gt;4.节点状态判断 ，有些节点在网站上面看到是在线的，但是在软件中检测是不在线的&lt;/p&gt;
+&lt;h3 id=&#34;怎么购买&#34;&gt;怎么购买
+&lt;/h3&gt;&lt;p&gt;有流量套餐，周期套餐，主要就是这两个。&lt;/p&gt;
+&lt;p&gt;第一次买不推荐买流量套餐，可以买周期套餐试试水，如果周期套餐好再买流量套餐。&lt;/p&gt;
+&lt;h3 id=&#34;怎么找好用的vpn&#34;&gt;怎么找好用的vpn
+&lt;/h3&gt;&lt;p&gt;去主要是在telegram(电报)上面找，微信，淘宝，拼多多，抖音都屏蔽了这些关键字，不怎么找得到。google到是找得到，但是都是一些打广告的。&lt;/p&gt;
+&lt;p&gt;先从淘宝，拼多多上面买一个暂时用。&lt;/p&gt;
+&lt;p&gt;关键字被限制的该怎么办？关键字被限制的长什么样&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;1.vpn搜索机场，有个机场列表，这里就可以找到了，同理就是这样找到机场的&lt;/p&gt;
+&lt;p&gt;电报搜索&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;t.me/sosooo
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;2.机场列表&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;t.me/jichang_list
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;3.找一年左右的厂家，。老的人数多，容易卡。新的容易跑路&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;vpn好坏的判断&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1.看允许几个设备同时在线。2.看网站的连接卡不卡。3.看是否有多个套餐之类的东西。4.是否有电报群或者qq群，群里面要活跃，而且人要多。5.看延迟，好的在50ms左右，一般的在100ms左右。6.看宽带大小，用v2rayn来测试&lt;/p&gt;
+&lt;p&gt;例子&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-gdscript3&#34; data-lang=&#34;gdscript3&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;https&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;//&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;creampanel&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;com&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;User&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;MemberService&lt;/span&gt;  &lt;span class=&#34;o&#34;&gt;//&lt;/span&gt;&lt;span class=&#34;err&#34;&gt;套餐多&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;https&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;//&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;dragonvpn&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;cc&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;/&lt;/span&gt;&lt;span class=&#34;c1&#34;&gt;#download-app  //只允许在它自己的app里面使用&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id=&#34;小技巧&#34;&gt;小技巧
+&lt;/h2&gt;&lt;p&gt;1.不推荐用全局代理，可以用浏览器的插件代理，这样流量会流畅一些&lt;/p&gt;
+&lt;p&gt;2.有了服务器后可以自己在服务器上面搭建vpn，这样自己就可以不用买vpn了。但是最好还是买个流量类型的vpn防止地区不行，要切换地区&lt;/p&gt;
+&lt;h2 id=&#34;视频&#34;&gt;视频
+&lt;/h2&gt;&lt;p&gt;要开代理看，里面很详细的介绍了我是怎么找到vpn的&lt;/p&gt;
+&lt;h2 id=&#34;最后&#34;&gt;最后
+&lt;/h2&gt;&lt;p&gt;1.如果有什么问题，可以在评论中留言，看到了一定回&lt;/p&gt;
+&lt;p&gt;2.博客会定期更新(可能几个月，可能几年)。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;相关的描述&lt;/p&gt;
+&lt;p&gt;vpn搭建 | 科学上网 | 网络加速 | 跨境网络 | 代理服务器 | 免费vpn | 稳定梯子 | 高速魔法 | 翻墙工具 | 机场推荐 | vpn购买 | 自建梯子 | 网络工具推荐 | 免翻墙浏览器 | 稳定vpn | 魔法上网 | 翻墙加速 | vpn对比 | 梯子分享 | 网络自由 | 安全vpn | 付费梯子 | 自建vpn教程 | vpn安全性 | 网络魔法 | vpn搭建 | 科学上网 | 网络加速 | 跨境网络 | 代理服务器 | 免费vpn | 稳定梯子 | 高速魔法 | 翻墙工具 | 机场推荐 | vpn购买 | 自建梯子 | 网络工具推荐 | 免翻墙浏览器 | 稳定vpn | 魔法上网 | 翻墙加速 | vpn对比 | 梯子分享 | 网络自由 | 安全vpn | 付费梯子 | 自建vpn教程 | vpn安全性 | 网络魔法 | 全球加速 | vpn软件推荐 | 代理ip | 动态ip | 静态ip | 浏览器翻墙插件 | vpn节点分享 | 梯子搭建教程 | 魔法翻墙工具 | 翻墙浏览器 | 加速器推荐 | 稳定机场 | vpn翻墙软件 | 个人代理 | 翻墙节点 | 翻墙代理服务器 | 魔法软件 | 翻墙加速器 | 代理工具分享 | 访问外网 | 稳定翻墙 | 网络优化工具 | vpn测速 | 快速vpn | 跨境加速 | 免注册vpn | vpn使用方法 | 翻墙教程 | 翻墙app | vpn工具推荐 | 魔法机场 | 节点订阅分享 | 免费翻墙节点 | 网络连接加速 | 高速代理 | 国内外vpn | 网络自由工具 | 梯子购买 | 私人vpn搭建 | 科学上网工具推荐 | 外网访问工具 | 加速器软件 | vpn节点购买 | 翻墙机场推荐 | 稳定加速工具 | 免费代理ip | 翻墙设置教程 | 代理软件推荐 | 免翻墙工具 | vpn搭建教程 | 私人机场 | 魔法网络工具 | vpn服务器推荐 | 国外vpn软件 | 翻墙方法 | 翻墙脚本 | 优质vpn推荐 | 低延迟vpn | 机场节点分享 | 高效翻墙工具 | 翻墙加速vpn | 免费梯子工具 | vpn工具对比 | 魔法梯子 | 智能代理 | 稳定魔法网络 | 自建代理教程 | 高效vpn | 流媒体解锁工具 | 国外加速工具 | 科学上网节点 | vpn价格对比 | 免流量vpn | vpn机场节点 | 梯子服务推荐 | 海外加速工具 | vpn稳定性 | 网络自由vpn | 翻墙工具安装 | 魔法上网推荐 | 翻墙工具分享 | 专业vpn服务 | 跨国网络加速 | 自定义vpn | 加速软件安装 | 机场翻墙 | 翻墙服务 | vpn资源分享 | 动态代理 | 快速翻墙 | 网络加速vpn | 魔法上网机场 | 海外服务器工具 | 专线梯子 | vpn加速服务 | 自建vpn节点 | 稳定机场工具 | 低成本vpn | 流畅翻墙工具 | 翻墙软件安装教程 | vpn使用技巧 | 快速魔法工具 | 安全科学上网 | 免费代理工具 | 国外节点分享 | 翻墙服务器搭建 | 科学工具推荐 | 网络提速软件 | 安全代理 | 付费科学上网 | vpn稳定推荐 | 魔法网络加速 | 海外梯子节点 | 高速vpn软件 | 科学上网机场 | 梯子工具分享 | 翻墙节点加速 | 私人代理节点 | 高效科学上网 | vpn资源获取 | 免费梯子节点 | 自建魔法网络 | 代理ip工具 | 代理服务器推荐 | 翻墙梯子购买 | 全球科学上网工具 | 免费魔法工具 | 高速翻墙节点 | 流畅加速工具 | 机场梯子推荐 | 科学工具对比 | vpn脚本工具 | 海外梯子加速 | vpn教程分享 | 个人网络工具 | 安全翻墙加速 | 跨境代理节点 | 海外网络连接 | 高速科学上网工具 | 代理节点分享 | 魔法机场节点 | 免费网络工具 | 翻墙节点稳定 | 高速网络代理 | 科学上网节点购买 | vpn加速节点 | 网络魔法服务 | 梯子搭建工具 | 稳定网络加速 | vpn订阅节点 | 个人加速工具 | 科学vpn工具 | 免费vpn脚本 | 加速器服务推荐 | 快速代理工具 | 科学上网方法 | 稳定翻墙服务 | vpn节点工具 | 高效网络优化 | 跨境vpn服务 | 网络解锁工具 | 海外加速器推荐 | 私人节点工具 | 免费科学网络 | 代理脚本推荐 | 稳定代理服务 | 自建梯子工具 | 海外加速教程 | 机场节点稳定 | 快速科学网络 | 跨国vpn工具 | 流畅代理节点 | vpn推荐工具 | 翻墙教程工具 | 跨境加速服务 | 高速科学节点 | vpn脚本安装 | 科学网络搭建 | 魔法服务推荐 | 节点脚本分享 | 跨国代理vpn | 高速加速服务 | 科学上网稳定节点 | 免费翻墙软件 | 高效翻墙节点 | 稳定科学工具 | 代理节点推荐 | 海外梯子服务 | 魔法加速节点 | 网络自由节点 | 科学上网脚本 | 跨国网络节点 | vpn资源工具 | 魔法加速工具 | 代理vpn工具 | 科学加速器推荐 | 安全vpn节点 | 稳定翻墙网络 | 流畅vpn加速 | vpn资源教程 | 跨境加速工具 | 翻墙机场服务 | 网络魔法机场 | 高速网络梯子 | vpn节点脚本 | 科学网络节点 | 安全网络加速 | 免费魔法加速 | vpn节点分享 | 跨国翻墙节点 | 科学上网梯子工具 | 低延迟翻墙节点 | 高速代理机场 | 翻墙网络工具 | vpn工具分享 | 科学网络服务 | 跨境魔法节点 | 高速翻墙加速 | 自建科学工具 | 免费机场分享 | 稳定魔法服务 | 代理网络工具 | 翻墙节点工具 | vpn搭建节点 | 高效科学工具 | 网络魔法节点 | 高速vpn服务 | 跨境网络代理 | 流畅科学节点 | 稳定魔法加速 | 网络服务翻墙 | vpn服务节点 | 代理加速脚本 | 免费网络节点 | 跨境节点分享 | 科学加速服务 | 稳定代理节点 | 个人科学节点 | vpn脚本节点 | 翻墙资源工具 | 网络加速脚本 | 科学vpn脚本 | 高速科学代理 | 跨国网络工具 | 魔法梯子节点 | 翻墙稳定节点 | 网络节点脚本 | 代理科学加速 | 稳定vpn资源 | 机场节点工具 | 科学魔法加速 | 高速代理服务 | 跨境科学工具 | 高效翻墙脚本 | 免费网络魔法 | 跨国科学节点 | 科学服务工具 | 稳定节点脚本 | 高速网络科学 | vpn资源节点 | 网络梯子工具 | 魔法加速脚本 | 科学上网加速 | 稳定代理科学 | 跨境节点工具 | 网络脚本代理 | 科学节点分享 | vpn网络代理 | 魔法代理节点 | 高速vpn机场 | 稳定网络脚本 | 跨境科学资源 | 魔法节点服务 | 网络加速节点 | 科学网络代理 | 跨境网络科学 | 代理梯子节点 | 免费vpn脚本 | 翻墙代理加速 | 稳定科学机场 | 高速代理加速 | 机场资源节点 | 科学翻墙脚本 | 网络科学代理 | 免费梯子脚本 | vpn脚本资源 | 跨境科学代理 | 魔法服务节点 | 稳定科学翻墙 | vpn资源代理 | 网络节点科学 | 魔法代理加速 | 高速翻墙脚本 | 跨境节点代理 | 科学资源脚本 | 稳定网络代理 | 魔法网络脚本 | vpn代理加速 | 科学节点代理 | 免费加速服务 | 科学网络翻墙 | 网络代理节点 | 科学代理网络 | 魔法资源工具 | 稳定科学代理 | 高速魔法节点 | 网络资源代理 | 科学工具脚本 | 跨境魔法工具 | 代理科学网络 | vpn代理节点 | 稳定网络科学 | 免费代理机场 | 魔法科学网络 | 网络科学脚本 | 科学代理加速 | 稳定魔法代理 | 科学资源加速 | 魔法加速网络 | 科学网络代理工具 | vpn稳定科学 | 网络科学资源 | 科学翻墙代理 | 高速资源代理 | 科学代理工具 | 网络代理脚本 | 科学资源服务 | 稳定代理工具 | 高速节点代理 | 网络加速服务 | 科学脚本加速 | 代理网络科学 | 稳定网络代理 | 跨国科学工具 | 网络魔法代理 | 科学节点资源 | 魔法服务加速 | vpn节点科学 | 科学资源脚本 | 高效网络代理 | 网络代理资源 | 科学加速节点 | 魔法科学资源 | 网络科学代理 | 科学资源网络 | 网络加速节点 | 科学节点工具 | 魔法资源代理 | 科学网络加速 | 稳定科学节点 | 科学代理资源 | 网络资源科学 | 魔法节点代理 | 科学网络服务 | 网络科学节点 | 稳定代理网络 | 科学网络资源 | 网络节点服务 | 科学工具资源 | 科学服务节点 | 魔法代理网络 | 科学资源服务&lt;/p&gt;
 </description>
         </item>
         <item>
-        <title>服务器推荐</title>
-        <link>http://localhost:1313/p/%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%8E%A8%E8%8D%90/</link>
+        <title>怎么自己找服务器</title>
+        <link>http://localhost:1313/p/%E6%80%8E%E4%B9%88%E8%87%AA%E5%B7%B1%E6%89%BE%E6%9C%8D%E5%8A%A1%E5%99%A8/</link>
         <pubDate>Sun, 08 Dec 2024 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/p/%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%8E%A8%E8%8D%90/</guid>
-        <description>&lt;img src="http://localhost:1313/p/%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%8E%A8%E8%8D%90/%E4%BA%91%E4%B8%BB%E6%9C%BA.jpg" alt="Featured image of post 服务器推荐" /&gt;&lt;h2 id=&#34;简单介绍&#34;&gt;简单介绍
+        <guid>http://localhost:1313/p/%E6%80%8E%E4%B9%88%E8%87%AA%E5%B7%B1%E6%89%BE%E6%9C%8D%E5%8A%A1%E5%99%A8/</guid>
+        <description>&lt;img src="http://localhost:1313/p/%E6%80%8E%E4%B9%88%E8%87%AA%E5%B7%B1%E6%89%BE%E6%9C%8D%E5%8A%A1%E5%99%A8/%E4%BA%91%E4%B8%BB%E6%9C%BA.jpg" alt="Featured image of post 怎么自己找服务器" /&gt;&lt;h2 id=&#34;简单介绍&#34;&gt;简单介绍
 &lt;/h2&gt;&lt;p&gt;可以听一听保证有收货&lt;br&gt;
 我在网上找了很多的教程，但都是没有介绍价格在什么区间合适，怎么找便宜的服务器&lt;br&gt;
 于是我就介绍一下服务器怎么选
@@ -212,10 +332,10 @@ allowfullscreen&gt;&lt;/iframe&gt;
 &lt;br&gt;
 &lt;h2 id=&#34;香港服务器怎么选择&#34;&gt;香港服务器怎么选择
 &lt;/h2&gt;&lt;h3 id=&#34;价格判断&#34;&gt;价格判断
-&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%8E%A8%E8%8D%90/%E4%BA%91%E4%B8%BB%E6%9C%BA.jpg&#34;
+&lt;/h3&gt;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/p/%E6%80%8E%E4%B9%88%E8%87%AA%E5%B7%B1%E6%89%BE%E6%9C%8D%E5%8A%A1%E5%99%A8/%E4%BA%91%E4%B8%BB%E6%9C%BA.jpg&#34;
 	width=&#34;961&#34;
 	height=&#34;536&#34;
-	srcset=&#34;http://localhost:1313/p/%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%8E%A8%E8%8D%90/%E4%BA%91%E4%B8%BB%E6%9C%BA_hu3225859898507293639.jpg 480w, http://localhost:1313/p/%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%8E%A8%E8%8D%90/%E4%BA%91%E4%B8%BB%E6%9C%BA_hu10892899003559498024.jpg 1024w&#34;
+	srcset=&#34;http://localhost:1313/p/%E6%80%8E%E4%B9%88%E8%87%AA%E5%B7%B1%E6%89%BE%E6%9C%8D%E5%8A%A1%E5%99%A8/%E4%BA%91%E4%B8%BB%E6%9C%BA_hu3225859898507293639.jpg 480w, http://localhost:1313/p/%E6%80%8E%E4%B9%88%E8%87%AA%E5%B7%B1%E6%89%BE%E6%9C%8D%E5%8A%A1%E5%99%A8/%E4%BA%91%E4%B8%BB%E6%9C%BA_hu10892899003559498024.jpg 1024w&#34;
 	loading=&#34;lazy&#34;
 	
 		alt=&#34;云主机&#34;
